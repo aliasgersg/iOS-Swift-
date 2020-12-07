@@ -5,7 +5,7 @@ Image filtering app in Swift. Implemented basic colour filters.
 ## Why FilterGood?
 My first thoughts about Swift were not positive, I was anxious in learning a whole new programming language. I was planning to stick to Python but I thought about learning something new along with my Final Project. After spending a few weeks coding in Swift, I look back to how wrong I was. I'm really happy to have pursued this project because I've been able to learn a very powerful language and also have been able to take up a new skill. 
 
-After several hours of brainstorming and making plans, I finally decided on doing something related to Image filtering. Swift has limitless possibilities but the most fascinating library (on my skill level) was the CoreImage library it has a diverse range of functions and I was excited to play with this library. 
+After several hours of brainstorming and making plans, I finally decided on doing something related to Image filtering. Swift has limitless possibilities but the most fascinating library (based on my skill level) was the CoreImage library it has a diverse range of functions and I was excited to play with this library. 
 
 ## Problems
 
