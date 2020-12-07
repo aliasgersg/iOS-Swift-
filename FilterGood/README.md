@@ -13,3 +13,9 @@ I had a few problems like for example, the CoreImage library was not responding 
 ## Features that didn't make the cut 🙁
 
 I was not able to implement a 'Hold to save image' function since it was an arduous task because upon implementation it would destroy the entire orientation of the app and at a few simulations it even crashed my app. 
+
+## Future plans
+
+After exams get over, in the holidays I plan to work on this project and strive to improve it. I've had a couple ideas like implementing categories for further enhancement like: blur effects, cartoon, infra-red and etc. CoreImage is a huge library and I aim to explore every part of it. 
+
+### My 
